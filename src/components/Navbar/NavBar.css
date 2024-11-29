@@ -1,0 +1,8 @@
+.nav-link {
+  text-decoration: none; /* Alt çizgiyi kaldırır*/
+  color: white;
+  font-weight: bold;
+}
+.nav-link:hover {
+  color: lightgray;
+}
